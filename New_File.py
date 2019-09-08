@@ -1,1 +1,1 @@
-print("hello world!")
+print("fuck hello world!")
