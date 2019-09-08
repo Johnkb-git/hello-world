@@ -1,1 +1,3 @@
-print("fuck hello world!")
+
+print("hello world!")
+a = 1
